@@ -26,9 +26,9 @@
 
 ### My stats 🎯
 <a href="https://github-readme-stats.vercel.app/api?username=barbylka&hide=stars&show_icons=true&theme=buefy&icon_color=FFCF40&hide_border=true">
-  <img align="left" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=barbylka&hide=stars&show_icons=true&theme=buefy&icon_color=FFCF40&hide_border=true"/>
+  <img align="left" alt="GH stats"  width="45%" src="https://github-readme-stats.vercel.app/api?username=barbylka&hide=stars&show_icons=true&theme=buefy&icon_color=FFCF40&hide_border=true"/>
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=barbylka&layout=compact&theme=buefy&hide_border=true">
-  <img align="right" alt="langs stats" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbylka&layout=compact&theme=buefy&hide_border=true" />
+  <img align="right" alt="langs stats" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbylka&layout=compact&theme=buefy&hide_border=true" />
 </a>
