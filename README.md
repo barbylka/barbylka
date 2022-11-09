@@ -7,6 +7,7 @@
 
 🤔 I'm here because I'm inspired by creating a useful and valuable product.
 
+☁️Peace, friendship and IT☁️
 
 ### My stack 💪
 
